@@ -1,0 +1,96 @@
+find h264 idr frame total:34
+uncompress size:2076704,source pcm size:1470931
+H264Decode GetNextFrame error
+h264 play total frames count:803
+find h264 idr frame total:60
+uncompress size:1952656,source pcm size:772750
+H264Decode GetNextFrame error
+h264 play total frames count:1420
+pcm play seconds:122
+uncompress size:1952656,source pcm size:772750
+h264 play total frames count:944
+uncompress size:1952656,source pcm size:772750
+h264 play total frames count:23
+uncompress size:1952656,source pcm size:772750
+h264 play total frames count:83
+uncompress size:1952656,source pcm size:772750
+H264Decode GetNextFrame error
+h264 play total frames count:53
+find h264 idr frame total:38
+H264Decode GetNextFrame error
+h264 play total frames count:894
+find h264 idr frame total:38
+find h264 idr frame total:35
+H264Decode GetNextFrame error
+h264 play total frames count:829
+pcm play seconds:71
+H264Decode GetNextFrame error
+h264 play total frames count:829
+pcm play seconds:71
+h264 play total frames count:27
+find h264 idr frame total:468
+h264 play total frames count:240
+h264 play total frames count:53
+h264 play total frames count:53
+h264 play total frames count:54
+H264Decode GetNextFrame error
+h264 play total frames count:339
+pcm play seconds:28
+find h264 idr frame total:468
+h264 play total frames count:30
+find h264 idr frame total:74
+H264Decode GetNextFrame error
+h264 play total frames count:1769
+pcm play seconds:150
+h264 play total frames count:1176
+H264Decode GetNextFrame error
+h264 play total frames count:425
+pcm play seconds:34
+find h264 idr frame total:74
+H264Decode GetNextFrame error
+h264 play total frames count:1768
+pcm play seconds:150
+H264Decode GetNextFrame error
+h264 play total frames count:1768
+pcm play seconds:150
+H264Decode GetNextFrame error
+h264 play total frames count:1768
+pcm play seconds:150
+h264 play total frames count:139
+find h264 idr frame total:2415
+h264 play total frames count:192
+h264 play total frames count:0
+find h264 idr frame total:2415
+h264 play total frames count:394
+h264 play total frames count:47
+h264 play total frames count:134
+h264 play total frames count:49
+h264 play total frames count:1122
+h264 play total frames count:63
+h264 play total frames count:8669
+h264 play total frames count:500
+find h264 idr frame total:10
+h264 play total frames count:127
+find h264 idr frame total:10
+H264Decode GetNextFrame error
+h264 play total frames count:229
+find h264 idr frame total:10
+h264 play total frames count:94
+find h264 idr frame total:10
+find h264 idr frame total:10
+h264 play total frames count:33
+find h264 idr frame total:10
+h264 play total frames count:98
+find h264 idr frame total:10
+h264 play total frames count:224
+find h264 idr frame total:10
+h264 play total frames count:39
+find h264 idr frame total:10
+h264 play total frames count:158
+find h264 idr frame total:10
+h264 play total frames count:50
+find h264 idr frame total:10
+H264Decode GetNextFrame error
+h264 play total frames count:229
+pcm play seconds:17
+h264 play total frames count:18

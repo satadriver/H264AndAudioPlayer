@@ -1,0 +1,5 @@
+mutex already exist,please shutdown the program and run one instance
+one program instance is already running
+mutex already exist,please shutdown the program and run one instance
+one program instance is already running
+mutex already exist,please shutdown the program and run one instance
